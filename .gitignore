@@ -21,3 +21,10 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+/.editorconfig
+/.idea/.gitignore
+/.idea/dbnavigator.xml
+/.idea/deployment.xml
+/.idea/modules.xml
+/.idea/shanapra-main.iml
+/.idea/vcs.xml
